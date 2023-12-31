@@ -266,6 +266,7 @@ Người dùng cũng sẽ xem được thông tin những đơn hàng mình đã
 # <a name="_toc152702030"></a>**3.2 Đối với người quản trị**
 # <a name="_toc152702031"></a>**3.2.1 Quản lý người dùng**
 `	`Admin được phép quản lý thông tin người dùng, xem thông tin người dùng tương tự mục 2.1.17, ngoài ra được chỉnh sửa thông tin người dùng.![](/images/Aspose.Words.1d06b9f8-cdd0-4bed-94b3-a2f8ef703c1c.026.png)
+
 Đặc biệt có thể sửa đổi tình trạng tài khoản và vai trò của người dùng
 
 ![](/images/Aspose.Words.1d06b9f8-cdd0-4bed-94b3-a2f8ef703c1c.027.png)
