@@ -371,5 +371,3 @@ Người dùng mới tiến hành đăng ký và đăng nhập
 ![](/images/Aspose.Words.1d06b9f8-cdd0-4bed-94b3-a2f8ef703c1c.038.png)
 
 ![](/images/Aspose.Words.1d06b9f8-cdd0-4bed-94b3-a2f8ef703c1c.039.png)
-2
-
