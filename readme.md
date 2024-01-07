@@ -100,6 +100,10 @@ Triển khai web hosting và kết nối database online. Bài toán được x�
 # <a name="_toc152702013"></a>**4. Các đường dẫn**
 **Link Web đã deloy:** <https://techgadget-store.onrender.com/Smartphone_Webshop/>
 
+**Source code gốc:** <https://github.com/KayterCantFixBug/Smartphone-Shop-Web/tree/Source/>
+
+**Source code bản phát triển** <https://github.com/KayterCantFixBug/Smartphone-Shop-Web/tree/Development/>
+
 # <a name="_toc152702014"></a>**CHƯƠNG 2: THIẾT KẾ HỆ THỐNG**
 # <a name="_toc152702015"></a>**1. Class Diagram:**
 ![](/images/Aspose.Words.1d06b9f8-cdd0-4bed-94b3-a2f8ef703c1c.003.jpeg)
