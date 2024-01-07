@@ -3,80 +3,80 @@
 **ĐỀ TÀI**: THIẾT KẾT WEBSITE BÁN ĐIỆN THOẠI THÔNG MINH **TECHGADGET**
 
 # MỤC LỤC
-[**LỜI CẢM ƠN**	1](#_toc152702008)
+[**LỜI CẢM ƠN**](#_toc152702008)
 
-[**CHƯƠNG 1: TỔNG QUAN VỀ HỆ THỐNG**	2](#_toc152702009)
+[**CHƯƠNG 1: TỔNG QUAN VỀ HỆ THỐNG**](#_toc152702009)
 
-[**1. Giới thiệu**	2](#_toc152702010)
+[**1. Giới thiệu**](#_toc152702010)
 
-[**2. Mục tiêu và phạm vi**	2](#_toc152702011)
+[**2. Mục tiêu và phạm vi**](#_toc152702011)
 
-[**3. Công nghệ sử dụng**	2](#_toc152702012)
+[**3. Công nghệ sử dụng**](#_toc152702012)
 
-[**4. Các đường dẫn**	2](#_toc152702013)
+[**4. Các đường dẫn**](#_toc152702013)
 
-[**CHƯƠNG 2: THIẾT KẾ HỆ THỐNG**	3](#_toc152702014)
+[**CHƯƠNG 2: THIẾT KẾ HỆ THỐNG**](#_toc152702014)
 
-[**1. Class Diagram:**	3](#_toc152702015)
+[**1. Class Diagram:**](#_toc152702015)
 
-[**2. Cấu trúc phân luồng dữ liệu**	3](#_toc152702016)
+[**2. Cấu trúc phân luồng dữ liệu**](#_toc152702016)
 
-[**2.1 Model**	3](#_toc152702017)
+[**2.1 Model**](#_toc152702017)
 
-[**2.2 Controller**	5](#_toc152702018)
+[**2.2 Controller**](#_toc152702018)
 
-[**2.3 Utility**	5](#_toc152702019)
+[**2.3 Utility**](#_toc152702019)
 
-[**3. Chức năng bài toán**	5](#_toc152702020)
+[**3. Chức năng bài toán**](#_toc152702020)
 
-[**3.1 Đối với người dùng**	5](#_toc152702021)
+[**3.1 Đối với người dùng**](#_toc152702021)
 
-[**3.1.1 Đăng ký**	5](#_toc152702022)
+[**3.1.1 Đăng ký**](#_toc152702022)
 
-[**3.1.2** **Đăng nhập/đăng xuất**	9](#_toc152702023)
+[**3.1.2** **Đăng nhập/đăng xuất**](#_toc152702023)
 
-[**3.1.3 Quên mật khẩu**	11](#_toc152702024)
+[**3.1.3 Quên mật khẩu**](#_toc152702024)
 
-[**3.1.4 Ghi nhớ đăng nhập**	12](#_toc152702025)
+[**3.1.4 Ghi nhớ đăng nhập**](#_toc152702025)
 
-[**3.1.5 Thêm vào giỏ hàng**	14](#_toc152702026)
+[**3.1.5 Thêm vào giỏ hàng**](#_toc152702026)
 
-[**3.1.6 Thanh toán**	17](#_toc152702027)
+[**3.1.6 Thanh toán**](#_toc152702027)
 
-[**3.1.7 Cập nhật thông tin cá nhân**	19](#_toc152702028)
+[**3.1.7 Cập nhật thông tin cá nhân**](#_toc152702028)
 
-[**3.1.8 Xem thông tin đơn hàng**	20](#_toc152702029)
+[**3.1.8 Xem thông tin đơn hàng**](#_toc152702029)
 
-[**3.2 Đối với người quản trị**	20](#_toc152702030)
+[**3.2 Đối với người quản trị**](#_toc152702030)
 
-[**3.2.1 Quản lý người dùng**	20](#_toc152702031)
+[**3.2.1 Quản lý người dùng**](#_toc152702031)
 
-[**3.2.2 Quản lý thương hiệu**	23](#_toc152702032)
+[**3.2.2 Quản lý thương hiệu**](#_toc152702032)
 
-[**3.2.3 Quản lý sản phẩm**	24](#_toc152702033)
+[**3.2.3 Quản lý sản phẩm**](#_toc152702033)
 
-[**3.2.4 Quản lý đơn đặt hàng**	24](#_toc152702034)
+[**3.2.4 Quản lý đơn đặt hàng**](#_toc152702034)
 
-[**CHƯƠNG 3: KẾT LUẬN**	25](#_toc152702035)
+[**CHƯƠNG 3: KẾT LUẬN**](#_toc152702035)
 
-[**1. Kết quả đạt được**	25](#_toc152702036)
+[**1. Kết quả đạt được**](#_toc152702036)
 
-[**2. Phân công công việc**	25](#_toc152702037)
+[**2. Phân công công việc**](#_toc152702037)
 
-[**3. Hạn chế**	26](#_toc152702038)
+[**3. Hạn chế**](#_toc152702038)
 
-[**4. Hướng phát triển**	26](#_toc152702039)
+[**4. Hướng phát triển**](#_toc152702039)
 
-[**4.1 Class Diagram**	26](#_toc152702040)
+[**4.1 Class Diagram**](#_toc152702040)
 
-[**4.2 Thay đổi (so với bản đã triển khai trên hosting)**	27](#_toc152702041)
+[**4.2 Thay đổi (so với bản đã triển khai trên hosting)**](#_toc152702041)
 
 
 
 # <a name="_toc152702008"></a>**LỜI CẢM ƠN**
-`	`Lời đầu tiên xin cảm ơn GV, ThS Mai Anh Thơ đã truyền đạt kiến thức, đầu tư tâm huyết và thời gian để giúp nhóm chúng tôi hoàn thiện đồ án. Điều mà chúng tôi nhận được chính là kiến thức chuyên môn, kỹ năng làm việc nhóm, phân tích thiết kế Class Diagram được được vững vàng hơn qua đồ án cuối kỳ.
+Lời đầu tiên xin cảm ơn GV, ThS Mai Anh Thơ đã truyền đạt kiến thức, đầu tư tâm huyết và thời gian để giúp nhóm chúng tôi hoàn thiện đồ án. Điều mà chúng tôi nhận được chính là kiến thức chuyên môn, kỹ năng làm việc nhóm, phân tích thiết kế Class Diagram được được vững vàng hơn qua đồ án cuối kỳ.
 
-`	`Trong quá trình xây dựng đồ án, vẫn sẽ có những thiếu sót nhất định. Mong cô đưa ra những lời góp ý giúp chúng tôi hoàn thiện.
+Trong quá trình xây dựng đồ án, vẫn sẽ có những thiếu sót nhất định. Mong cô đưa ra những lời góp ý giúp chúng tôi hoàn thiện.
 
 Xin chân thành cảm ơn cô!
 
